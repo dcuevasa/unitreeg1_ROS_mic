@@ -14,7 +14,7 @@
 #include <naoqi_bridge_msgs/AudioBuffer.h>
 
 // Configuración multicast para los micrófonos
-#define GROUP_IP "239.168.123.161"
+#define GROUP_IP "192.168.123.161"
 #define PORT 5555
 
 // Configuración de audio
